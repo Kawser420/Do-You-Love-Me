@@ -1,3 +1,4 @@
+/* CSS Style Start */
 * {
   padding: 0;
   margin: 0;
@@ -92,7 +93,7 @@ body {
   text-align: center;
 }
 
-/* heart loader */
+/* Heart Loader */
 .cssload-main {
   display: none;
   position: absolute;
@@ -413,3 +414,5 @@ body {
     border-color: rgb(228, 228, 228);
   }
 }
+
+/* CSS Style End */

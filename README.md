@@ -1,4 +1,4 @@
-# Do-You-Love-Me?
+# Do You Love Me?
 
 A small, playful interactive web micro-project that asks "Do you love me?" with evasive "No" behavior, a heart-loader animation, and a celebratory result. Ideal as a lightweight demo of DOM manipulation, CSS animations, and playful UX.
 
@@ -28,42 +28,42 @@ The "No" button moves on `mouseover` to random positions inside the question con
 
 ## Project structure
 
-- [index.html](index.html) — Entry page and layout.
-- [css/styles.css](css/styles.css) — All styles and animations.
-- [js/script.js](js/script.js) — Interaction logic.
-- cute-love-gif.mp4 — Result video (place in project root).
+- [index.html](index.html) - Entry page and layout.
+- [css/styles.css](css/styles.css) - All styles and animations.
+- [js/script.js](js/script.js) - Interaction logic.
+- cute-love-gif.mp4 - Result video (place in project root).
 
-## Installation & Usage
+### Installation and Usage
 
 1. Clone or download this repository.
 2. Ensure `cute-love-gif.mp4` is in the project root (or update the path in [index.html](index.html)).
 3. Open [index.html](index.html) in any modern browser (no server required).
 
-## Github:
+### Github:
 
 1. **git clone:**
 
 ```
-https://github.com/Kawser420/Do-You-Love-Me.git
+https://github.com/go-kawser/Do-You-Love-Me.git
 ```
 
 2. **git pages link:**
 
 ```
-https://kawser420.github.io/Do-You-Love-Me/
+https://go-kawser.github.io/Do-You-Love-Me/
 ```
 
-## Customization ideas
+### Customization Ideas
 
 - Add accessibility improvements (keyboard support and ARIA attributes).
 - Make the "No" button movement constrained to visible bounds to avoid overflow.
 - Replace the video with an optimized GIF or WebM for smaller size.
 - Add responsive size tweaks for smaller screens.
 
-## Contributing
+### Contributing
 
-Small tweaks and UX improvements are welcome. Fork the repo, create a feature branch, and open a PR.
+**Small tweaks and UX improvements are welcome. Fork the repo, create a feature branch, and open a PR.**
 
-## License
+#### License
 
-MIT — see [LICENSE](LICENSE).
+**MIT - see [LICENSE](LICENSE).**
