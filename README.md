@@ -64,6 +64,7 @@ https://go-kawser.github.io/Do-You-Love-Me/
 
 **Small tweaks and UX improvements are welcome. Fork the repo, create a feature branch, and open a PR.**
 
-#### License
+#### License and Contact
 
 **MIT - see [LICENSE](LICENSE).**
+**Email:** abu.kayser.official@gmail.com
