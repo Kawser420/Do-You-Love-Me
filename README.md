@@ -44,13 +44,13 @@ The "No" button moves on `mouseover` to random positions inside the question con
 1. **git clone:**
 
 ```
-https://github.com/go-kawser/Do-You-Love-Me.git
+git clone https://github.com/md-abu-kayser/Do-You-Love-Me.git
 ```
 
 2. **git pages link:**
 
 ```
-https://go-kawser.github.io/Do-You-Love-Me/
+https://md-abu-kayser.github.io/Do-You-Love-Me/
 ```
 
 ### Customization Ideas
@@ -60,11 +60,30 @@ https://go-kawser.github.io/Do-You-Love-Me/
 - Replace the video with an optimized GIF or WebM for smaller size.
 - Add responsive size tweaks for smaller screens.
 
+### License
+
+- This project is licensed under the terms of the **[MIT License](./LICENSE)**.
+- You may replace or update the license as needed for client or proprietary projects.
+
+---
+
+### Contact and Maintainer
+
+**Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)  
+**Name:** Md Abu Kayser - Full-Stack Engineer
+
+- **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
+- **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
+- **Project:** _Do You Love Me?_
+
+If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
+
+---
+
 ### Contributing
 
 **Small tweaks and UX improvements are welcome. Fork the repo, create a feature branch, and open a PR.**
 
-#### License and Contact
+**Thank you for reviewing this project!**
 
-**MIT - see [LICENSE](LICENSE).**
-**Email:** abu.kayser.official@gmail.com
+---
