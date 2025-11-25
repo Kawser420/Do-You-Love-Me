@@ -1,4 +1,4 @@
-# Do You Love Me?
+# Do You Love Me? - Interactive Love Micro-Experience
 
 A small, playful interactive web micro-project that asks "Do you love me?" with evasive "No" behavior, a heart-loader animation, and a celebratory result. Ideal as a lightweight demo of DOM manipulation, CSS animations, and playful UX.
 
