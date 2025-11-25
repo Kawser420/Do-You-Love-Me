@@ -24,7 +24,7 @@ Open [index.html](index.html) in a browser to try the demo.
   - [`yesBtn`](js/script.js)
   - [`noBtn`](js/script.js)
 
-The "No" button moves on `mouseover` to random positions inside the question container. Clicking "Yes" hides the question view, shows the heart loader for 3 seconds, then reveals the result container and plays the video.
+> The "No" button moves on `mouseover` to random positions inside the question container. Clicking "Yes" hides the question view, shows the heart loader for 3 seconds, then reveals the result container and plays the video.
 
 ## Project structure
 
@@ -33,24 +33,26 @@ The "No" button moves on `mouseover` to random positions inside the question con
 - [js/script.js](js/script.js) - Interaction logic.
 - cute-love-gif.mp4 - Result video (place in project root).
 
-### Installation and Usage
+## Installation and Usage
 
 1. Clone or download this repository.
 2. Ensure `cute-love-gif.mp4` is in the project root (or update the path in [index.html](index.html)).
 3. Open [index.html](index.html) in any modern browser (no server required).
 
-### Github:
+## Github:
 
 1. **git clone:**
 
-```
+```bash
 git clone https://github.com/md-abu-kayser/do-you-love-me.git
+
 ```
 
 2. **git pages link:**
 
-```
+```bash
 https://md-abu-kayser.github.io/do-you-love-me/
+
 ```
 
 ### Customization Ideas
@@ -59,6 +61,10 @@ https://md-abu-kayser.github.io/do-you-love-me/
 - Make the "No" button movement constrained to visible bounds to avoid overflow.
 - Replace the video with an optimized GIF or WebM for smaller size.
 - Add responsive size tweaks for smaller screens.
+
+### Contributing
+
+- Small tweaks and UX improvements are welcome. Fork the repo, create a feature branch, and open a PR.
 
 ### License
 
@@ -69,21 +75,16 @@ https://md-abu-kayser.github.io/do-you-love-me/
 
 ### Contact and Maintainer
 
-**Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)  
-**Name:** Md Abu Kayser - Full-Stack Engineer
-
-- **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
-- **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
-- **Project:** _Do You Love Me?_
+- **_Project:_** _do-you-love-me_
+- **_Name:_** Md Abu Kayser - Full-Stack Engineer
+- **_Maintainer:_** [md-abu-kayser](https://github.com/md-abu-kayser)
+- **_GitHub:_** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
+- **_Email:_** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
 
 If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
 
 ---
 
-### Contributing
-
-**Small tweaks and UX improvements are welcome. Fork the repo, create a feature branch, and open a PR.**
-
-**Thank you for reviewing this project!**
+**Thank you for reviewing this small, playful interactive web micro-project!**
 
 ---
