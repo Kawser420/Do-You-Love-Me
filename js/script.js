@@ -1,4 +1,5 @@
 // JavaScript Start
+// --------------------------------------------------------------------->
 const questionContainer = document.querySelector(".question-container");
 const resultContainer = document.querySelector(".result-container");
 const gifResult = document.querySelector(".gif-result");
@@ -27,3 +28,4 @@ yesBtn.addEventListener("click", () => {
   }, 3000);
 });
 // JavaScript End
+// ------------------------------------------------------------------------------>
