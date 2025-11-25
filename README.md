@@ -44,13 +44,13 @@ The "No" button moves on `mouseover` to random positions inside the question con
 1. **git clone:**
 
 ```
-git clone https://github.com/md-abu-kayser/Do-You-Love-Me.git
+git clone https://github.com/md-abu-kayser/do-you-love-me.git
 ```
 
 2. **git pages link:**
 
 ```
-https://md-abu-kayser.github.io/Do-You-Love-Me/
+https://md-abu-kayser.github.io/do-you-love-me/
 ```
 
 ### Customization Ideas
